@@ -28,15 +28,24 @@ Through these problems, I am practicing:
 - Date Functions
 - Basic SQL Problem Solving
 
-## Repository Structure
+## Progress
 
-The solutions are organized according to the LeetCode SQL 50 problem set.
+**SQL 50 – In Progress 🚀**
 
-```text
-SQL50/
-│
-├── 01-...
-├── 02-...
-├── 03-...
-├── ...
-└── 50-...
+I will keep adding my solutions as I solve the problems.
+
+## Goal
+
+My goal is to complete the **LeetCode SQL 50** and build a strong foundation in **SQL and DBMS** through consistent practice.
+
+## Platform
+
+[LeetCode](https://leetcode.com/)
+
+## Author
+
+**Jatin Kumar**  
+CSE | NIT Delhi  
+2029 Batch
+
+> Learning by solving, one query at a time.
